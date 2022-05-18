@@ -9,6 +9,7 @@
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
 <link href="${bootstrapCss}" rel="stylesheet" />
 <link href="${coreCss}" rel="stylesheet" />
+</head>
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
